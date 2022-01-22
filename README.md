@@ -61,3 +61,5 @@ python <convert.py 路径> <源文件(.cpp)路径>
 **移除 `#ifndef _OJ_` 等预编译指令**
 
 头文件和源文件中的 `#ifndef _OJ_`、`#if !defined(_OJ_)` 和 `#ifdef DEBUG` 及其作用范围内的所有内容将被移除，避免残留代码影响白盒评分。
+
+![rswvi9rxwo371.jpeg](https://s2.loli.net/2022/01/22/xZWakAeBnmNhERd.jpg)
